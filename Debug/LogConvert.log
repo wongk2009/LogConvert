@@ -1,0 +1,3 @@
+﻿  LogConvert.cpp
+C:\Users\40678\source\repos\LogConvert\LogConvert\LogConvert.cpp(164): warning C4715:  “<lambda_ff88dcc27f0b8cc7b65294e99154c46b>::operator()”: 不是所有的控件路径都返回值
+  LogConvert.vcxproj -> C:\Users\40678\source\repos\LogConvert\LogConvert\Debug\LogConvert.exe
